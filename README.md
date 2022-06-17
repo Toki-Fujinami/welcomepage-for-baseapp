@@ -1,5 +1,7 @@
 # welcomepage-for-baseapp
 
+This will create, after login , a welcome page with info for members.
+
 Create a folder named WelcomeScreen into src/screens and upload there these file
 
 Open index.ts file in the same folder src/screens and paste this:
