@@ -6,22 +6,12 @@ const Welcome = () => {
     return (
         <div className="pg-intro container">
             <h1 className="pg-intro__heading">
-                Welcome to RavenDax
-            </h1>
-            <h3 className="pg-intro-description">
-                <strong>
-                    <FormattedMessage id={`page.intro.description`} />
-                </strong>
-            </h3>
-            <hr className="pg-intro__hr" />
-            <h3>
-                <a href="/utility/fees.html" target="_blank" className="page-intro-fees-link btn btn-dark" >
-                    Always check, before depositing: the minimum amount, the confirmations, and the minimum tradable amount
-                </a>
-            </h3>
+                Welcome to Your exchange name
+            </h1>          
+                     
 			 <hr className="pg-intro__hr" />
             <h3>
-                <a href="https://helpdesk.ravendax.com" target="_blank" className="page-intro-fees-link btn btn-dark" >
+                <a href="" target="_blank" className="page-intro-fees-link btn btn-dark" >
                     No KYC verification, minimum daily withdraw 500$. Contact us for any question.
                 </a>
             </h3>
